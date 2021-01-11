@@ -27,3 +27,30 @@ students. Create a CSS style sheet and use it to display the document.
 
 6. Write a PHP program to keep track of the number of visitors visiting the web page
 and to display this count of visitors, with proper headings. 
+
+PART-B (programs)
+
+7. Write a PHP program to display a digital clock which displays the current time of the
+server.
+
+8. Write the PHP programs to do the following:
+a. Implement simple calculator operations.
+b. Find the transpose of a matrix.
+c. Multiplication of two matrices.
+d. Addition of two matrices.
+
+9. Write a PHP program named states.py that declares a variable states with value
+"Mississippi Alabama Texas Massachusetts Kansas". write a PHP program that does
+the following:
+a. Search for a word in variable states that ends in xas. Store this word in element
+0 of a list named statesList. 
+b. Search for a word in states that begins with k and ends in s. Perform a caseinsensitive comparison. [Note: Passing re.Ias a second parameter to method
+compile performs a case-insensitive comparison.] Store this word in element1
+of statesList.
+c. Search for a word in states that begins with M and ends in s. Store this
+word in element 2 of the list.
+
+d. Search for a word in states that ends in a. Store this word in element 3 of the
+list.
+10. Write a PHP program to sort the student records which are stored in the database
+using selection sort. 

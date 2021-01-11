@@ -52,5 +52,6 @@ word in element 2 of the list.
 
 d. Search for a word in states that ends in a. Store this word in element 3 of the
 list.
+
 10. Write a PHP program to sort the student records which are stored in the database
 using selection sort. 
